@@ -1,0 +1,20 @@
+body {
+    font-family: 'Georgia', serif;
+    font-weight: 700;
+}
+
+h1 {
+    font-family: 'UnifrakturCook', cursive;
+    color: #333;
+}
+
+h2 {
+    color: #333;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
